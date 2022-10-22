@@ -66,7 +66,4 @@ while True:
         else:
             print("Invalid value")
 
-    
 
-# welcome
-# comments
